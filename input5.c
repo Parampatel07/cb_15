@@ -1,6 +1,6 @@
 // Write a programe to peform split
 // number = 56;
-// first = 5 ,second = 60;
+// first = 5 ,second = 6;
 #include <stdio.h>
 void main()
 {
