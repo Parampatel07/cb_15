@@ -1,0 +1,5 @@
+Write a C program to convert specified days into years, months and week. 
+Note: Ignore leap year. 
+
+Write a C program to convert a given integer (in seconds) to hours, minutes and seconds
+note :input seconds
