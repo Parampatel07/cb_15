@@ -15,6 +15,16 @@ if (condition)
 }
 ...
 
+if(condition)
+{
+     ..lines of code
+}
+else
+{
+     ..lines of code 
+}
+...
+
 relational operator
 ----------------------------------
 < - less than
@@ -25,3 +35,4 @@ relational operator
 >= greater than equal to 
 
 a >= b 
+
