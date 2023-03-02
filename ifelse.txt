@@ -48,5 +48,9 @@ relational operator
 <= - less than equal to
 >= greater than equal to 
 
-a >= b 
+&& - and 
+|| - or 
 
+
+
+a < b  || b == c
