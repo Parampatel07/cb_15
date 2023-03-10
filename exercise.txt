@@ -45,3 +45,9 @@ yearly income     tax rate
 <8,00,000         20%
 
 >=8,00,000        30%  
+
+Write a programe to findout distance of one planet from another planet.
+
+Write a programe to print number in word only 1 digit 
+
+Write a programe to create a calc using if else 

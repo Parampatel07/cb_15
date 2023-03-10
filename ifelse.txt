@@ -54,3 +54,6 @@ relational operator
 
 
 a < b  || b == c
+
+switch case
+------------------------------
