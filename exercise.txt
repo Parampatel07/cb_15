@@ -50,4 +50,8 @@ Write a programe to findout distance of one planet from another planet.
 
 Write a programe to print number in word only 1 digit 
 
-Write a programe to create a calc using if else 
+Write a programe to create a calc using if else.
+
+loop
+---------------------------
+1 8 27 64 .... 10000
