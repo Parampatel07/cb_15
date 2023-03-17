@@ -17,7 +17,7 @@ void main()
                count++;
           }
           printf("\n");
-          count = 0;
+          count = 0;     
           carbon--;
      }
      // while (count < 4)
