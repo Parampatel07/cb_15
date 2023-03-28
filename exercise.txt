@@ -61,3 +61,8 @@ write a program to print following series
 
 write a program to print following series 
 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176 ... 3000
+
+array
+---------------------------
+write a programe to accept runs for 5 match find total and average and also find lowest run scored
+             
