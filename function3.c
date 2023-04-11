@@ -15,7 +15,6 @@ void main()
 {
      int symbol_count=0;
      char sign;
-
      printf("Enter number of symbol ");
      scanf("%d",&symbol_count);
      fflush(stdin);
