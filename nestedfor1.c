@@ -22,7 +22,7 @@ void main()
           printf("\n");
           printf("*");
 
-     }
+     }demo
      // for (space = 0; space < 3; space++)
      // {
      //      printf("_");

@@ -70,4 +70,5 @@ function
 -----------------------------
 write a programe to make a calc using function
 ->addition,subraction,multiplication,division,maximum,minimum,equality
+
 Write a programe to make a bmi calc using function 

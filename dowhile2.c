@@ -1,5 +1,5 @@
 // Write a programe to print hollow half pyramid
-// https://i1.faceprep.in/fp/articles/img/55984 1580817324.png
+// https://i1.faceprep.in/fp/articles/img/580817324.png
 #include <stdio.h>
 void main()
 {
